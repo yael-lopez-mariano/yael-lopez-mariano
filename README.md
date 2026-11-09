@@ -21,20 +21,32 @@
   src="https://raw.githubusercontent.com/yael-lopez-mariano/yael-lopez-mariano/main/assets/gifProgramador.gif"
 />
 
+
 <p>
-I am a <b>Software Engineer in Development and Management</b> and <b>Full Stack Developer</b> passionate about creating innovative and efficient solutions.  
-I have experience in <b>backend, frontend, databases, mobile development, and application security</b>.  
-✨ I love programming and facing new challenges to keep improving every day.  
-For me, <i>"what can be imagined can be programmed."</i>
+  I am a <b>Software Engineer in Development and Management</b>
+  and <b>Full Stack Developer</b>, passionate about building
+  scalable, secure, and innovative software solutions.
+
+  I specialize in <b>backend, frontend, databases, cloud
+  technologies, and mobile development</b>, transforming
+  ideas into efficient real-world applications.
+
+  🚀 Always learning, innovating, and exploring new
+  technologies, including <b>Artificial Intelligence</b>.
+
+  <i>"What can be imagined can be programmed."</i>
 </p>
 
 <ul>
-  <li><b>Backend & APIs:</b> Java, Python, .NET (C#), Node.js, REST API security</li>
-  <li><b>Frontend:</b> HTML, CSS, JavaScript, TypeScript, Angular, React, Bootstrap, Tailwind</li>
+  <li><b>Backend & APIs:</b> C#, .NET, Java, Python, Node.js, REST APIs</li>
+  <li><b>Frontend:</b> React, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind</li>
   <li><b>Databases:</b> MySQL, SQL, MongoDB</li>
-  <li><b>Cloud & DevOps:</b> Docker, AWS</li>
-  <li><b>Mobile Development:</b> Android Studio, Kotlin, Compose, Java, XML</li>
+  <li><b>Cloud & DevOps:</b> AWS, Azure, Docker, Git, GitHub, CI/CD</li>
+  <li><b>Mobile:</b> Android Studio, Kotlin, Java, Jetpack Compose</li>
+  <li><b>Architecture:</b> Clean Architecture, SOLID, OOP, Design Patterns</li>
+  <li><b>AI & Automation:</b> Artificial Intelligence, AI-assisted Development</li>
 </ul>
+
 
 📫 Reach out to me at: <a href="mailto:yaellopezmariano@gmail.com">yaellopezmariano@gmail.com</a>
 
